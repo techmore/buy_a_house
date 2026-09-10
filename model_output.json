@@ -1,0 +1,511 @@
+{
+  "rates": {
+    "fha": 0.06162,
+    "conventional": 0.0681,
+    "roth_return": 0.07,
+    "ufmip": 0.0175,
+    "annual_mip": 0.0055,
+    "fha_limit": 630200
+  },
+  "purchase_power": [
+    {
+      "price": 250000,
+      "location": "Upper Black Eddy 18972",
+      "down_3_5": 8750.0,
+      "base_loan": 241250.0,
+      "total_loan": 245471.875,
+      "ufmip": 4221.875,
+      "pi": 1497.3913943944053,
+      "mip": 110.57291666666667,
+      "tax": 204.16666666666666,
+      "ins": 125.0,
+      "total_monthly": 1937.1309777277388,
+      "piti": 1826.558061061072,
+      "closing_costs": 9750.359589041096,
+      "cash_to_close": 18500.359589041094
+    },
+    {
+      "price": 250000,
+      "location": "Harleysville 19438",
+      "down_3_5": 8750.0,
+      "base_loan": 241250.0,
+      "total_loan": 245471.875,
+      "ufmip": 4221.875,
+      "pi": 1497.3913943944053,
+      "mip": 110.57291666666667,
+      "tax": 283.3333333333333,
+      "ins": 125.0,
+      "total_monthly": 2016.2976443944053,
+      "piti": 1905.7247277277386,
+      "closing_costs": 9984.606164383562,
+      "cash_to_close": 18734.606164383564
+    },
+    {
+      "price": 250000,
+      "location": "Collegeville 19426",
+      "down_3_5": 8750.0,
+      "base_loan": 241250.0,
+      "total_loan": 245471.875,
+      "ufmip": 4221.875,
+      "pi": 1497.3913943944053,
+      "mip": 110.57291666666667,
+      "tax": 302.0833333333333,
+      "ins": 125.0,
+      "total_monthly": 2035.0476443944053,
+      "piti": 1924.4747277277386,
+      "closing_costs": 10040.085616438357,
+      "cash_to_close": 18790.08561643836
+    },
+    {
+      "price": 300000,
+      "location": "Upper Black Eddy 18972",
+      "down_3_5": 10500.000000000002,
+      "base_loan": 289500.0,
+      "total_loan": 294566.25,
+      "ufmip": 5066.250000000001,
+      "pi": 1796.8696732732867,
+      "mip": 132.6875,
+      "tax": 245.0,
+      "ins": 125.0,
+      "total_monthly": 2299.557173273287,
+      "piti": 2166.869673273287,
+      "closing_costs": 10862.431506849314,
+      "cash_to_close": 21362.431506849316
+    },
+    {
+      "price": 300000,
+      "location": "Harleysville 19438",
+      "down_3_5": 10500.000000000002,
+      "base_loan": 289500.0,
+      "total_loan": 294566.25,
+      "ufmip": 5066.250000000001,
+      "pi": 1796.8696732732867,
+      "mip": 132.6875,
+      "tax": 340.0,
+      "ins": 125.0,
+      "total_monthly": 2394.557173273287,
+      "piti": 2261.869673273287,
+      "closing_costs": 11143.527397260274,
+      "cash_to_close": 21643.527397260274
+    },
+    {
+      "price": 300000,
+      "location": "Collegeville 19426",
+      "down_3_5": 10500.000000000002,
+      "base_loan": 289500.0,
+      "total_loan": 294566.25,
+      "ufmip": 5066.250000000001,
+      "pi": 1796.8696732732867,
+      "mip": 132.6875,
+      "tax": 362.5,
+      "ins": 125.0,
+      "total_monthly": 2417.057173273287,
+      "piti": 2284.369673273287,
+      "closing_costs": 11210.102739726028,
+      "cash_to_close": 21710.10273972603
+    },
+    {
+      "price": 350000,
+      "location": "Upper Black Eddy 18972",
+      "down_3_5": 12250.000000000002,
+      "base_loan": 337750.0,
+      "total_loan": 343660.625,
+      "ufmip": 5910.625000000001,
+      "pi": 2096.3479521521676,
+      "mip": 154.80208333333334,
+      "tax": 285.8333333333333,
+      "ins": 125.0,
+      "total_monthly": 2661.9833688188346,
+      "piti": 2507.181285485501,
+      "closing_costs": 11974.503424657534,
+      "cash_to_close": 24224.503424657538
+    },
+    {
+      "price": 350000,
+      "location": "Harleysville 19438",
+      "down_3_5": 12250.000000000002,
+      "base_loan": 337750.0,
+      "total_loan": 343660.625,
+      "ufmip": 5910.625000000001,
+      "pi": 2096.3479521521676,
+      "mip": 154.80208333333334,
+      "tax": 396.6666666666667,
+      "ins": 125.0,
+      "total_monthly": 2772.8167021521676,
+      "piti": 2618.014618818834,
+      "closing_costs": 12302.448630136987,
+      "cash_to_close": 24552.44863013699
+    },
+    {
+      "price": 350000,
+      "location": "Collegeville 19426",
+      "down_3_5": 12250.000000000002,
+      "base_loan": 337750.0,
+      "total_loan": 343660.625,
+      "ufmip": 5910.625000000001,
+      "pi": 2096.3479521521676,
+      "mip": 154.80208333333334,
+      "tax": 422.9166666666667,
+      "ins": 125.0,
+      "total_monthly": 2799.0667021521676,
+      "piti": 2644.264618818834,
+      "closing_costs": 12380.119863013699,
+      "cash_to_close": 24630.1198630137
+    },
+    {
+      "price": 400000,
+      "location": "Upper Black Eddy 18972",
+      "down_3_5": 14000.000000000002,
+      "base_loan": 386000.0,
+      "total_loan": 392755.0,
+      "ufmip": 6755.000000000001,
+      "pi": 2395.826231031049,
+      "mip": 176.91666666666666,
+      "tax": 326.6666666666667,
+      "ins": 125.0,
+      "total_monthly": 3024.409564364382,
+      "piti": 2847.4928976977153,
+      "closing_costs": 13086.575342465754,
+      "cash_to_close": 27086.575342465756
+    },
+    {
+      "price": 400000,
+      "location": "Harleysville 19438",
+      "down_3_5": 14000.000000000002,
+      "base_loan": 386000.0,
+      "total_loan": 392755.0,
+      "ufmip": 6755.000000000001,
+      "pi": 2395.826231031049,
+      "mip": 176.91666666666666,
+      "tax": 453.3333333333333,
+      "ins": 125.0,
+      "total_monthly": 3151.076231031049,
+      "piti": 2974.1595643643823,
+      "closing_costs": 13461.369863013699,
+      "cash_to_close": 27461.3698630137
+    },
+    {
+      "price": 400000,
+      "location": "Collegeville 19426",
+      "down_3_5": 14000.000000000002,
+      "base_loan": 386000.0,
+      "total_loan": 392755.0,
+      "ufmip": 6755.000000000001,
+      "pi": 2395.826231031049,
+      "mip": 176.91666666666666,
+      "tax": 483.3333333333333,
+      "ins": 125.0,
+      "total_monthly": 3181.076231031049,
+      "piti": 3004.1595643643823,
+      "closing_costs": 13550.13698630137,
+      "cash_to_close": 27550.13698630137
+    },
+    {
+      "price": 450000,
+      "location": "Upper Black Eddy 18972",
+      "down_3_5": 15750.000000000002,
+      "base_loan": 434250.0,
+      "total_loan": 441849.375,
+      "ufmip": 7599.375000000001,
+      "pi": 2695.30450990993,
+      "mip": 199.03125,
+      "tax": 367.5,
+      "ins": 125.0,
+      "total_monthly": 3386.83575990993,
+      "piti": 3187.80450990993,
+      "closing_costs": 14198.647260273972,
+      "cash_to_close": 29948.647260273974
+    },
+    {
+      "price": 450000,
+      "location": "Harleysville 19438",
+      "down_3_5": 15750.000000000002,
+      "base_loan": 434250.0,
+      "total_loan": 441849.375,
+      "ufmip": 7599.375000000001,
+      "pi": 2695.30450990993,
+      "mip": 199.03125,
+      "tax": 510.0,
+      "ins": 125.0,
+      "total_monthly": 3529.33575990993,
+      "piti": 3330.30450990993,
+      "closing_costs": 14620.29109589041,
+      "cash_to_close": 30370.29109589041
+    },
+    {
+      "price": 450000,
+      "location": "Collegeville 19426",
+      "down_3_5": 15750.000000000002,
+      "base_loan": 434250.0,
+      "total_loan": 441849.375,
+      "ufmip": 7599.375000000001,
+      "pi": 2695.30450990993,
+      "mip": 199.03125,
+      "tax": 543.75,
+      "ins": 125.0,
+      "total_monthly": 3563.08575990993,
+      "piti": 3364.05450990993,
+      "closing_costs": 14720.15410958904,
+      "cash_to_close": 30470.154109589042
+    }
+  ],
+  "ten_percent_down": [
+    {
+      "price": 300000,
+      "location": "Upper Black Eddy 18972",
+      "down": 30000.0,
+      "base_loan": 270000.0,
+      "pi": 1675.8370009802672,
+      "mip": 123.75,
+      "tax": 245.0,
+      "total_monthly": 2169.5870009802675,
+      "mip_lifetime": 16335.0,
+      "mip_std_lifetime": 44550.0
+    },
+    {
+      "price": 300000,
+      "location": "Harleysville 19438",
+      "down": 30000.0,
+      "base_loan": 270000.0,
+      "pi": 1675.8370009802672,
+      "mip": 123.75,
+      "tax": 340.0,
+      "total_monthly": 2264.5870009802675,
+      "mip_lifetime": 16335.0,
+      "mip_std_lifetime": 44550.0
+    },
+    {
+      "price": 300000,
+      "location": "Collegeville 19426",
+      "down": 30000.0,
+      "base_loan": 270000.0,
+      "pi": 1675.8370009802672,
+      "mip": 123.75,
+      "tax": 362.5,
+      "total_monthly": 2287.0870009802675,
+      "mip_lifetime": 16335.0,
+      "mip_std_lifetime": 44550.0
+    },
+    {
+      "price": 350000,
+      "location": "Upper Black Eddy 18972",
+      "down": 35000.0,
+      "base_loan": 315000.0,
+      "pi": 1955.143167810312,
+      "mip": 144.375,
+      "tax": 285.8333333333333,
+      "total_monthly": 2510.3515011436452,
+      "mip_lifetime": 19057.5,
+      "mip_std_lifetime": 51975.0
+    },
+    {
+      "price": 350000,
+      "location": "Harleysville 19438",
+      "down": 35000.0,
+      "base_loan": 315000.0,
+      "pi": 1955.143167810312,
+      "mip": 144.375,
+      "tax": 396.6666666666667,
+      "total_monthly": 2621.1848344769783,
+      "mip_lifetime": 19057.5,
+      "mip_std_lifetime": 51975.0
+    },
+    {
+      "price": 350000,
+      "location": "Collegeville 19426",
+      "down": 35000.0,
+      "base_loan": 315000.0,
+      "pi": 1955.143167810312,
+      "mip": 144.375,
+      "tax": 422.9166666666667,
+      "total_monthly": 2647.4348344769783,
+      "mip_lifetime": 19057.5,
+      "mip_std_lifetime": 51975.0
+    },
+    {
+      "price": 400000,
+      "location": "Upper Black Eddy 18972",
+      "down": 40000.0,
+      "base_loan": 360000.0,
+      "pi": 2234.4493346403565,
+      "mip": 164.99999999999997,
+      "tax": 326.6666666666667,
+      "total_monthly": 2851.116001307023,
+      "mip_lifetime": 21779.999999999996,
+      "mip_std_lifetime": 59399.99999999999
+    },
+    {
+      "price": 400000,
+      "location": "Harleysville 19438",
+      "down": 40000.0,
+      "base_loan": 360000.0,
+      "pi": 2234.4493346403565,
+      "mip": 164.99999999999997,
+      "tax": 453.3333333333333,
+      "total_monthly": 2977.78266797369,
+      "mip_lifetime": 21779.999999999996,
+      "mip_std_lifetime": 59399.99999999999
+    },
+    {
+      "price": 400000,
+      "location": "Collegeville 19426",
+      "down": 40000.0,
+      "base_loan": 360000.0,
+      "pi": 2234.4493346403565,
+      "mip": 164.99999999999997,
+      "tax": 483.3333333333333,
+      "total_monthly": 3007.78266797369,
+      "mip_lifetime": 21779.999999999996,
+      "mip_std_lifetime": 59399.99999999999
+    }
+  ],
+  "headline": {
+    "monthly": {
+      "price": 350000,
+      "down": 12250.000000000002,
+      "base_loan": 337750.0,
+      "ufmip": 5910.625000000001,
+      "total_loan": 343660.625,
+      "pi": 2096.3479521521676,
+      "mip_monthly": 154.80208333333334,
+      "mip_months": 360,
+      "tax_monthly": 396.6666666666667,
+      "ins_monthly": 125.0,
+      "hoa": 0.0,
+      "total_monthly": 2772.8167021521676,
+      "piti_no_mip": 2618.014618818834
+    },
+    "paths": {
+      "loan": {
+        "down": 12250.000000000002,
+        "base_loan": 337750.0,
+        "total_loan": 343660.625
+      },
+      "base_payment": 2096.3479521521676,
+      "payoff_months": 213,
+      "payoff_years": 17.75,
+      "total_interest_extra": 219691.04960896238,
+      "balance_at_horizon": 0.0,
+      "baseline_balance": 0.0,
+      "equity_advantage": 0.0,
+      "freed_reinvested": 615025.5257494355,
+      "path_a_wealth": 615025.5257494355,
+      "path_b_wealth": 656974.7688816354,
+      "advantage_b_over_a": 41949.24313219986,
+      "roth": 656974.7688816354,
+      "roth_monthly": 664672.3921777874,
+      "interest_saved_total": 191333.58816580148
+    }
+  },
+  "roth_sensitivity": [
+    {
+      "return": 0.04,
+      "path_a": 500728.34361062077,
+      "path_b": 379134.17919465416,
+      "advantage_b": -121594.1644159666
+    },
+    {
+      "return": 0.05,
+      "path_a": 535712.2561625435,
+      "path_b": 453445.13420806575,
+      "advantage_b": -82267.1219544778
+    },
+    {
+      "return": 0.06,
+      "path_a": 573716.7614287229,
+      "path_b": 544710.9030228722,
+      "advantage_b": -29005.85840585071
+    },
+    {
+      "return": 0.07,
+      "path_a": 615025.5257494355,
+      "path_b": 656974.7688816354,
+      "advantage_b": 41949.24313219986
+    },
+    {
+      "return": 0.08,
+      "path_a": 659950.0520459841,
+      "path_b": 795248.1420161943,
+      "advantage_b": 135298.08997021022
+    },
+    {
+      "return": 0.09,
+      "path_a": 708832.4970123259,
+      "path_b": 965738.9105977225,
+      "advantage_b": 256906.4135853966
+    }
+  ],
+  "horizon_sweep": [
+    {
+      "year": 5,
+      "payoff_years": 17.75,
+      "path_a": 39028.01609964017,
+      "path_b": 39996.389814550006,
+      "advantage_b": 968.3737149098379
+    },
+    {
+      "year": 10,
+      "payoff_years": 17.75,
+      "path_a": 92096.93368440133,
+      "path_b": 96093.39557069898,
+      "advantage_b": 3996.4618862976495
+    },
+    {
+      "year": 15,
+      "payoff_years": 17.75,
+      "path_a": 164258.1730983644,
+      "path_b": 174772.34808107364,
+      "advantage_b": 10514.174982709228
+    },
+    {
+      "year": 20,
+      "payoff_years": 17.75,
+      "path_a": 263557.5179736973,
+      "path_b": 285123.64909416274,
+      "advantage_b": 21566.131120465463
+    },
+    {
+      "year": 25,
+      "payoff_years": 17.75,
+      "path_a": 407324.15380038857,
+      "path_b": 439897.05731506756,
+      "advantage_b": 32572.903514678997
+    },
+    {
+      "year": 30,
+      "payoff_years": 17.75,
+      "path_a": 615025.5257494355,
+      "path_b": 656974.7688816354,
+      "advantage_b": 41949.24313219986
+    }
+  ],
+  "no_reinvest": {
+    "250000": {
+      "equity_advantage": 0.0,
+      "roth": 656974.7688816354,
+      "payoff_years": 15.333333333333334
+    },
+    "350000": {
+      "equity_advantage": 0.0,
+      "roth": 656974.7688816354,
+      "payoff_years": 17.75
+    },
+    "450000": {
+      "equity_advantage": 0.0,
+      "roth": 656974.7688816354,
+      "payoff_years": 19.416666666666668
+    }
+  },
+  "alternatives": {
+    "prepay_monthly_542": {
+      "payoff_years": 18.0,
+      "total_interest": 225719.31600721716
+    },
+    "buy_down_rate": {
+      "cost": 10132.5,
+      "new_rate": 0.05412,
+      "monthly_saving": 164.012681952413,
+      "breakeven_months": 61.77875929703948
+    }
+  }
+}
