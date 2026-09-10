@@ -14,7 +14,7 @@ An FHA first-time homebuyer analysis for **Harleysville**, **Collegeville**, and
 | [`FHA_Homebuyer_Guide.md`](FHA_Homebuyer_Guide.md) | The full guide — 9 sections |
 | [`model.py`](model.py) | The financial model behind every number |
 | [`model_output.json`](model_output.json) | Computed results, machine-readable |
-| [`index.md`](index.md) | GitHub Pages landing page |
+| [`index.md`](https://techmore.github.io/buy_a_house/) | GitHub Pages landing page |
 
 ## Reproduce the numbers
 

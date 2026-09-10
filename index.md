@@ -46,8 +46,8 @@ Nine sections covering everything from loan mechanics to the final action checkl
 Every figure in the guide comes from a script in this repository.
 
 - [`FHA_Homebuyer_Guide.md`](FHA_Homebuyer_Guide.md) — the full guide
-- [`model.py`](model.py) — the financial model that generates every payment, amortization, and projection
-- [`model_output.json`](model_output.json) — all computed results
+- [`model.py`](https://github.com/techmore/buy_a_house/blob/main/model.py) — the financial model that generates every payment, amortization, and projection
+- [`model_output.json`](https://github.com/techmore/buy_a_house/blob/main/model_output.json) — all computed results
 
 ```bash
 python3 model.py    # regenerates model_output.json and prints the full report
