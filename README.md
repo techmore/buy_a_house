@@ -55,3 +55,5 @@ Rates, limits, tax rates, and program terms change. Listing data was retrieved
 **September 10, 2026** and is perishable. Always verify with a licensed lender and
 with [PHFA](https://www.phfa.org), [HUD](https://www.hud.gov), and the
 [CFPB](https://www.consumerfinance.gov).
+
+Part of [Techmore](https://techmore.github.io/pages/repos/).
