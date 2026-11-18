@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: hub
 title: First-Time Homebuyer Guide — Montgomery & Bucks County, PA
 ---
 
